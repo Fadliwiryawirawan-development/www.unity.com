@@ -13,7 +13,10 @@ A comprehensive Mobile Legends Bang Bang gaming community platform featuring AI-
 "https://bughunters.google.com/"
 https://nmap.org/
 MLBB Platform React Node.js Vite
-
+https://www.roblox.com/
+https://www.reddit.com/
+https://www.discord.com/
+https://www.Unity.com/
 list gaming yang lagi hotspot indehoy bohaydeuh pkonya goyang majukenamundur kena lihat scroolldown hir : 
 https://store.steampowered.com/remoteplay
 https://www.dota2.com/home
