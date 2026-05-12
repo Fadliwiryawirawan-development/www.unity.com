@@ -71,6 +71,14 @@ Or use the advanced development script:
 node scripts/dev.js
 🏗️ Project Structure
 mlbb-platform/
+floopy playtime/
+point blank /
+countersrike /
+Dota II /
+Ayo dancer /
+RPG mobile and compute /
+GAme Classic /
+
 ├── 📁 backend/                 # Node.js/Express API server
 │   ├── 📁 src/
 │   │   ├── 📁 controllers/     # API controllers
