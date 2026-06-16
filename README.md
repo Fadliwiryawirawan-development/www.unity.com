@@ -1,8 +1,6 @@
 <h2>cyberw1ry4 (Sandbox) | Promotional Messaging Examples</h2>
 <h3>data-page-type: 'product' and 'homepage' </h3> 
 <hr class="dashed">
-<img width="896" height="640" alt="upgrade development tester windows needing uptodate" src="https://github.com/user-attachments/assets/e0f4ee73-fd36-4c8f-b2d5-895ab1ed2e59" />
-
 
 <h3>hati hati penghubung pekerjaan kerjasama literasi perusahaan tidak meminta pungli asas intergritas aparat pemerintah , personalia dan asas agama budaya maupun keluarga intinya pertemuan dan cara menempati tata ruang hubungi sejenis intranet dan nyata dalam technology touch screen  #cyberw1ry4:</h3>
  <ul>
