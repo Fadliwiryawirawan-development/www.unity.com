@@ -1,11 +1,127 @@
+<h2>cyberw1ry4 (Sandbox) | Promotional Messaging Examples</h2>
+<h3>data-page-type: 'product' and 'homepage' </h3> 
+<hr class="dashed">
+<img width="896" height="640" alt="upgrade development tester windows needing uptodate" src="https://github.com/user-attachments/assets/e0f4ee73-fd36-4c8f-b2d5-895ab1ed2e59" />
+
+
+<h3>hati hati penghubung pekerjaan kerjasama literasi perusahaan tidak meminta pungli asas intergritas aparat pemerintah , personalia dan asas agama budaya maupun keluarga intinya pertemuan dan cara menempati tata ruang hubungi sejenis intranet dan nyata dalam technology touch screen  #cyberw1ry4:</h3>
+ <ul>
+   <a href="https://docs.affirm.com/payments/docs/html-reference">
+     <li>hati hati penghubung pekerjaan kerjasama literasi perusahaan tidak meminta pungli asas intergritas aparat pemerintah , personalia dan asas agama budaya maupun keluarga intinya pertemuan dan cara menempati tata ruang hubungi sejenis intranet dan nyata dalam technology touch screen  #cyberw1ry4</li>
+   </a>
+   <a href="https://docs.affirm.com/payments/docs/promo-messaging-getting-started">
+     <li>Visual Placement Examples</li>
+   </a>
+ </ul>
+<hr class="dashed">
+
+<!-- For "Site" Modal - Generid educational modal, not produt specific --> 
+ <h4>For "Site" Modal - not product specific, geared towards Prequalification:</h4>
+<div id="prices">
+    <button class="affirm-site-modal" data-page-type="landing">Learn more</button>
+</div>
+
+<h4>Code example:</h4>
+<pre><code>
+  &lt;button class="affirm-site-modal" data-page-type="landing"&gt;Learn more&lt;/button&gt;
+</code></pre>
+   <br>
+
+<hr class="dashed">
+
+<!-- Affirm ALA - Product Page | Above Cart Floor --> 
+  <div class="container">
+   <h4>For "Price Row" view - (data-page-type="product")</h4>
+   <ul>
+     <li>Cart Size: $3,00</li>
+     <li>w/ branded Edu Modal (Hero + Logo), click on "Learn how it works."</li>
+     <li>with full Affirm logo.</li>
+   </ul>
+   <p class="affirm-as-low-as" data-page-type="product" data-amount="39000"></p>
+ </div>
+   <br>
+
+   <h4>Requires a single line of code:</h4>
+  <pre><code>
+   &lt;p&gt; class="affirm-as-low-as" data-page-type="product" data-amount="39">&lt;/p&gt; 
+  </code></pre>
+   <br>
+ <hr class="dashed">
+
+<!-- Affirm ALA - Product Page | Above Cart Floor --> 
+  <div class="container">
+   <h4>For "Price Row" view - (data-page-type="product")</h4>
+   <ul>
+     <li>Cart Size: $3</li>
+     <li>w/ branded Edu Modal (Hero + Logo), click on "Learn how it works."</li>
+     <li>with Affirm symbol.</li>
+   </ul>
+   <p class="affirm-as-low-as" data-page-type="product" data-amount="39000" data-affirm-type="symbol"></p>
+ </div>
+   <br>
+
+   <h4>Requires a single line of code:</h4>
+  <pre><code>
+   &lt;p&gt; class="affirm-as-low-as" data-page-type="product" data-amount="39000" data-affirm-type="symbol" >&lt;/p&gt; 
+  </code></pre>
+   <br>
+ <hr class="dashed">
+
+<!-- Affirm ALA - Product Page | Below Cart Floor -->
+  <div class="container">
+   <h4>For Product Page/PDP - (data-page-type="product")</h4>
+   <ul>
+     <li>Cart Size: $2 (Below cart floor)</li>
+     <li>w/ branded Edu Modal (Hero + Logo), click on "Learn more."</li>
+     
+   </ul>
+   <p class="affirm-as-low-as" data-page-type="product" data-amount="23000"></p>
+   <br>
+ </div>
+
+  <h4>Requires a single line of code:</h4>
+  <pre><code>
+   &lt;p&gt; class="affirm-as-low-as" data-page-type="product" data-amount="23000">&lt;/p&gt; 
+  </code></pre>
+   <br>
+ <hr class="dashed">
+
+
+<!-- Affirm ALA - Homepage | Above Cart Floor -->
+ <div class="container">   
+   <h4>For "Coupon" view - (data-page-type="homepage")</h4>
+   <ul>
+     <li>Cart Size: $3</li>
+     <li>w/ branded Edu Modal (Logo only), click on "Learn more."</li>
+   </ul>
+   <p class="affirm-as-low-as" data-page-type="homepage" data-amount="38000"></p>
+   <br>
+ </div> 
+
+   <h4>Requires a single line of code:</h4>
+  <pre><code>
+   &lt;p&gt; class="affirm-as-low-as" data-page-type="homepage" data-amount="38000">&lt;/p&gt; 
+  </code></pre>
+   <br>
+
+ <hr class="dashed">
+
+
+# Pesan utama mahasiswa Indonesia dalam demonstrasi yang digelar baru-baru ini adalah mendesak pemerintah agar mengakui adanya krisis ekonomi dan menuntut penghentian pemborosan APBN melalui program populis seperti Makan Bergizi Gratis (MBG).Aksi unjuk rasa yang dimotori oleh elemen mahasiswa seperti BEM UI ini membawa lima tuntutan spesifik:Menghentikan pemborosan APBN demi mengamankan kondisi fiskal negara.Menurunkan harga kebutuhan pokok dan Bahan Bakar Minyak (BBM).Menghentikan program MBG dan proyek Koperasi Desa Merah Putih yang dinilai tidak tepat sasaran.Menghentikan militerisme di ranah sipil.Mendesak Presiden Prabowo Subianto untuk berhenti mengelak dan segera mengakui kesalahan pemerintah terkait krisis ekonomi.
+# 
+# SEJENIS VIDEO CALL MAUPUN MEET GROUP SOSIAL LIVE STREAM MOBILE PHONE OR COMPUTE MENGGUNAKAN WAJAH TANPA AI EDITAN , WAJAH PEMILIK VALIDASI GMAIL
+
+
 
 # DOWNLOAD LINK DIBAWAH INI BUKTI KAMI MELKAUKAN OPERASI BERKEPNTINGAN UNTUK PENGGUNA DIGITAL DAN BISNIS MICRO PERLINDUNGAN HAK 
-"https://issues.chromium.org/action/issues/40061088/attachments/53102365?download=true"
 
 
 
 
 
+
+<img width="720" height="1280" alt="FadliWiryaWirawan S Kom M S (2)" src="https://github.com/user-attachments/assets/758158ec-b019-4e94-829d-655aad6fb8b7" />
+<img width="720" height="1280" alt="avatar-2-2" src="https://github.com/user-attachments/assets/0f9eba8c-9722-45de-913a-080997239029" />
 
 --------------------------------------------------------------------------------------------------------------------------------
 
